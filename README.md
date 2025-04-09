@@ -1,1 +1,3 @@
 # odin-recipes
+
+In this html project I will show all of the elements that I have learned, such as the boilerplate format that is always required to set up an HTML page and the different attributes within it. For instance, the paragraph tags, header tags, the different italic and bold tags, and list tags. For images and links wise, I will utilize what the course has currently taught me in order to make a good index for this.
